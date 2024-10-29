@@ -1,0 +1,15 @@
+{
+    "/leave": {
+        "post": {
+            "summary": "",
+            "description": "",
+            "consumes": [],
+            "produces": [],
+            "parameters": [],
+            "responses": {},
+            "tags": [
+                "leave"
+            ]
+        }
+    }
+}

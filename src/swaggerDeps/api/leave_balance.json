@@ -1,0 +1,28 @@
+{
+    "/leave-balance": {
+        "post": {
+            "summary": "",
+            "description": "",
+            "consumes": [],
+            "produces": [],
+            "parameters": [],
+            "responses": {},
+            "tags": [
+                "leave_balance"
+            ]
+        }
+    },
+    "/leave-balance/:user_id": {
+        "get": {
+            "summary": "",
+            "description": "",
+            "consumes": [],
+            "produces": [],
+            "parameters": [],
+            "responses": {},
+            "tags": [
+                "leave_balance"
+            ]
+        }
+    }
+}

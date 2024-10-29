@@ -1,0 +1,28 @@
+{
+    "/default-roles": {
+        "post": {
+            "summary": "",
+            "description": "",
+            "consumes": [],
+            "produces": [],
+            "parameters": [],
+            "responses": {},
+            "tags": [
+                "roles"
+            ]
+        }
+    },
+    "/roles": {
+        "get": {
+            "summary": "",
+            "description": "",
+            "consumes": [],
+            "produces": [],
+            "parameters": [],
+            "responses": {},
+            "tags": [
+                "roles"
+            ]
+        }
+    }
+}

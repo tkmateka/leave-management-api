@@ -1,0 +1,15 @@
+{
+    "/default-leaves": {
+        "post": {
+            "summary": "",
+            "description": "",
+            "consumes": [],
+            "produces": [],
+            "parameters": [],
+            "responses": {},
+            "tags": [
+                "leaves"
+            ]
+        }
+    }
+}
